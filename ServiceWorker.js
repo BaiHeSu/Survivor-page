@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-DemoQframeworkSurvivor-1.0";
 const contentToCache = [
     "Build/Survivor-page.loader.js",
-    "Build/Survivor-page.framework.js.br",
-    "Build/Survivor-page.data.br",
-    "Build/Survivor-page.wasm.br",
+    "Build/Survivor-page.framework.js.unityweb",
+    "Build/Survivor-page.data.unityweb",
+    "Build/Survivor-page.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
